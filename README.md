@@ -1,2 +1,2 @@
 # JavaScript30
-JavaScript30 by Wes Bos
+My solutions to [JavaScript30](https://javascript30.com) by [Wes Bos](https://github.com/wesbos).
